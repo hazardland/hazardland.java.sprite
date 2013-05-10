@@ -1,3 +1,6 @@
+#Sprite console usage
+------------------------------
+
 1. Place scene contents in folder [some_scene_folder].
 2. Group sprite images in folders inside [some_cene_folder]. for example: ./[some_scene_folder]/[some_character_images], ./[some_scene_folder]/[some_other_character_images], ...
 3. Run this sprite tool.
